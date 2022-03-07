@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../mental_health" />
+    <file type="web" url="file://$PROJECT_DIR$/../student_data_analysis" />
+    <file type="web" url="file://$PROJECT_DIR$/../student_exercise_health" />
+    <file type="web" url="file://$PROJECT_DIR$/../student_meditation" />
+    <file type="web" url="file://$PROJECT_DIR$/../student_nutrtition" />
+    <file type="web" url="file://$PROJECT_DIR$/../student_profile_and_login" />
+    <file type="web" url="file://$PROJECT_DIR$/../student_sleep" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
